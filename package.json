@@ -34,7 +34,9 @@
   },
   "main": "src/npm-main.js",
   "dependencies": {
-    "@mindmup/mapjs-core-dependencies": "file:packages/core-dependencies",
+    "underscore": "^1.8.3",
+    "monotone-convex-hull-2d": "^1.0.1",
+    "polybooljs": "^1.1.1",
     "jquery": "^3.2.1",
     "jquery.hotkeys": "git://github.com/jeresig/jquery.hotkeys",
     "hammerjs": "^1.1.3",
